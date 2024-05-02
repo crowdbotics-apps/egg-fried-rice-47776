@@ -65,6 +65,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-disqus](backend/modules)
 - [react-native-maps](modules/maps)
 - [react-native-mapbox-maps](modules/mapbox-maps)
+- [django-ocr](backend/modules)
 
 # Getting started: Frontend
 
