@@ -69,6 +69,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-typeform-webhook](modules/typeform-webhook)
 - [react-native-onboarding](modules/onboarding)
 - [django-openai](backend/modules)
+- [react-native-image-gallery](modules/image-gallery)
 
 # Getting started: Frontend
 
