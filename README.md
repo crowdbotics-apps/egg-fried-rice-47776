@@ -66,6 +66,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-maps](modules/maps)
 - [react-native-mapbox-maps](modules/mapbox-maps)
 - [django-ocr](backend/modules)
+- [react-native-typeform-webhook](modules/typeform-webhook)
 
 # Getting started: Frontend
 
