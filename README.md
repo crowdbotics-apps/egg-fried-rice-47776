@@ -62,6 +62,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [social-feed]()
 - [django-calendly](backend/modules)
 - [faq]()
+- [django-disqus](backend/modules)
 
 # Getting started: Frontend
 
